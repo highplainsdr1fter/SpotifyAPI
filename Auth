@@ -1,0 +1,6 @@
+base_address = "https://api.spotify.com"
+token_url = "https://accounts.spotify.com/api/token"
+refresh_token = ""
+client_id = "22a6c7f5f3d348c68dd35ca0e9161e92"
+client_secret = ""
+redirect_uri = 'http://localhost:8888/callback'
